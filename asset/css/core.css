@@ -1,0 +1,146 @@
+*{
+	letter-spacing: 1px;
+}
+body{
+	background: rgb(220, 221, 225);
+	font-family: Times New Roman;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+	margin: 0;
+}
+
+.w-40{
+	width: 40%;
+}
+.w-45{
+	width: 45%
+}
+.w-55{
+	width: 55%;
+}
+.w-60{
+	width: 60%
+}
+.btn{
+	padding: 5px 20px;
+}
+/*Login*/
+.wrap-login{
+	width: 400px;
+	margin: 70px;
+	border-radius: 10px;
+}
+
+.wrap-login .h-login{
+	position: relative;
+	padding: 10px;
+	padding-top:30px;
+}
+
+.wrap-login .f-login{
+	padding: 10px 40px;
+	padding-bottom: 40px;
+}
+
+.wrap-login .h-login img{
+	width: 60px;
+}
+/*End Login*/
+
+/* Modal About */
+#about h5{
+	margin-bottom:10px;
+}
+#about .about-apps p{
+	text-indent:25px;
+	text-align: justify;
+}
+#about .about-author i{
+	font-size:50px;	
+	margin:10px;
+}
+#about .about-author a img{
+	width: 40px !important;
+	margin: 10px;
+}
+#about .about-author .author-img img{
+	width: 100%;
+	border-radius:20px;
+}
+/* End Modal About */
+
+/* User Panel */
+.user-panel{
+	display:none;
+	position: absolute;
+	width: 130px;
+	right: 0;
+	top: 52px;
+}
+/* End User Panel */
+
+/*Navbar*/
+.navbar{
+	position: relative;
+	width: 900px !important;
+	z-index: 4;
+}
+/*End Navbar*/
+
+/*Content*/
+.wrap-content{
+	height: 100vh;
+	width: 900px;
+	background: white;
+}
+/*Files*/
+.wrap-files{
+	background: rgb(255, 255, 255);
+	padding: 20px;
+	overflow: auto;
+	height: 100vh;
+}
+.wrap-files form{
+	width: 300px;
+}
+
+.files .file{
+	padding: 2px;
+	overflow: hidden;
+	padding: 0;
+	height: 120px;
+	cursor: pointer;
+}
+
+.files .file .icon-file{
+	width: 60px;
+	height: 60px;
+}
+
+.files .file p{
+	margin-top: 5px;
+	line-height: 16px;
+	font-size: 14px;
+	text-align: center;
+}
+/*End Files*/
+
+/*View File*/
+
+/*End View File*/
+.wrap-thumb-file .img-thumb{
+	width: 150px;
+	height: 180px;
+}
+/*End Content*/
+
+/*Footer*/
+footer{
+	width: 900px;
+}
+/*End Footer*/
+
+.navbar-toggler{
+	border:none;
+}
