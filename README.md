@@ -2,11 +2,6 @@
 
 Aplikasi Penyimpanan Berbasis Website
 
-Account :
+Account : username => admin | pass => 1
 
-username = admin
-
-password = 1
-
-SQL file
-dir => sql/db_fs.sql
+SQL file : dir => sql/db_fs.sql
