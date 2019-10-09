@@ -2,8 +2,10 @@
 
 Aplikasi Penyimpanan Berbasis Website
 
-Account 
+Account :
+
 username = admin
+
 password = 1
 
 SQL file
