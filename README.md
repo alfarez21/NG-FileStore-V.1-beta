@@ -2,9 +2,9 @@
 
 Aplikasi Penyimpanan Berbasis Website
 
-Account :
+Account 
 username = admin
 password = 1
 
-SQL file:
+SQL file
 dir => sql/db_fs.sql
