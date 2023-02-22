@@ -1,7 +1,7 @@
-# NG-FileStore-V.1-beta
+# Dashboard
 
-Aplikasi Penyimpanan Berbasis Website
-
-Account : username => admin | pass => 1
-
-SQL file : dir => sql/db_fs.sql
+| Halo | Halo |   |
+| ---- | ---- | - |
+| Halo |      |   |
+|      |      |   |
+|      |      |   |
